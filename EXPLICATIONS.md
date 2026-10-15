@@ -36,7 +36,7 @@ Commit de fusion : `6aae8ba`, parents `7da5d8d` et `a43f314`. Vérifié : `grep`
 | Permanences, contact, conseil README | présents | présents |
 
 ## Dernier identifiant de main
-`335d2ba` avant ce fichier ; l'identifiant du commit d'EXPLICATIONS.md est dans mon message de remise. Identique sur GitHub : à vérifier.
+Dernier identifiant de main avant ce fichier : `335d2ba`, vérifié identique sur GitHub. L'identifiant du commit d'EXPLICATIONS.md est donné dans mon message de remise. 
 
 ## Aides utilisées
 Aide IA (Claude) guidage point par point. J'ai fait les manipulations, commande et les tests moi-même et vérifié chaque résultat dans le terminal.
